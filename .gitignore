@@ -1,7 +1,8 @@
 /target/
 /build/
+
+src/querydsl/
+
 /.gradle
-/gradle/
-gradlew*
 /.idea
 
